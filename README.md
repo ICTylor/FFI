@@ -1,0 +1,1 @@
+Example of FFI in different languages using libvlc.
